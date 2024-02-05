@@ -35,7 +35,7 @@ module.exports = {
 
 And the project `package.json` SHOULD NOT have `"type": "module"`
 
-💡**NOTE:** If the project is on `ES Module` but need cucumber to run with `CommonJs`, the following changes need to be done:
+💡**NOTE:** If the project is on `ES Module` (`"type": "module"`) but need cucumber to run with `CommonJs`, the following changes need to be done:
 
 1. rename `cucumber.js` to `cucumber.cjs`
 2. create an empty `package.json` file inside the `tests` directory. This allows tests dir to be treated as CommonJs module
