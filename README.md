@@ -44,7 +44,7 @@ And the project `package.json` SHOULD NOT have `"type": "module"`
 
 ### ES Module (mjs)
 
-`📁 cucu-ts-cjs`: This setup is suitable for projects that work on ES module system (`import`).
+`📁 cucu-ts-mjs`: This setup is suitable for projects that work on ES module system (`import`).
 
 > cucumber.js:
 
