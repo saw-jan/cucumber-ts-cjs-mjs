@@ -1,4 +1,4 @@
-## Configure cucumber with cjs or mjs type
+## Configure Cucumber + Typescript with cjs/mjs Projects
 
 ### CommonJs Module (cjs)
 
